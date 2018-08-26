@@ -1,0 +1,11 @@
+{
+	"symbol": "TNB",
+	"account": "okkkkkkkkkkk",
+	"precision": 5,
+	"overview": {
+		"en": "Te NiuBility",
+		"zh": "特牛币"
+	},
+	"logo": "tnb.png",
+	"state": "NORMAL",
+}
